@@ -1,0 +1,12 @@
+total 120
+drwxrwxrwx  3 root  operator    704 Apr  7 19:16 .
+drwxr-xr-x  3 root  operator    768 Apr  7 19:12 ..
+-rwxrwxrwx  1 root  operator      0 Apr  7 13:43 bb.txt
+-rwxrwxrwx  1 root  operator      0 Apr  7 13:43 bq.txt
+-rwxrwxrwx  1 root  operator      0 Apr  7 13:43 qq.txt
+-rw-------  1 root  operator    502 Apr  7 15:05 r.txt
+-rw-------  1 root  operator      0 Apr  7 19:16 result.txt
+-rwxr-xr-x  1 root  operator  16912 Apr  7 19:15 shell
+-rwxrwxrwx  1 root  operator  20356 Apr  7 14:24 shell.c
+-rwxrwxrwx  1 root  operator      6 Apr  7 14:26 test.txt
+drwxrwxrwx  3 root  operator    192 Apr  7 13:43 your

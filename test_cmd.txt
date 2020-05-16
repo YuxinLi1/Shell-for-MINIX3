@@ -1,0 +1,10 @@
+cd /your/path
+ls -a -l
+ls -a -l > result.txt
+vi result.txt
+grep a < result.txt
+ls -a -l | grep a
+vi result.txt&
+mytop
+history n
+exit
